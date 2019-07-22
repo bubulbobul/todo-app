@@ -7,11 +7,11 @@ In the project directory, you can run:
 ### `First`
 
 run the command:
-json-server src/data/data.json --port 4000
+run the command: npm i
 
 ### `Second`
 
-run the command: npm i
+json-server src/data/data.json --port 4000
 
 ### `Third`
 
